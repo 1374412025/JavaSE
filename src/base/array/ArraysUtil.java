@@ -43,6 +43,8 @@ public class ArraysUtil {//工具类Arrays类 java,util.Arrays
                 System.out.print(", ");
             else
                 System.out.println(']');
+            //这是测试
+
         }
     }
 }
