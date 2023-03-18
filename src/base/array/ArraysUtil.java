@@ -44,6 +44,7 @@ public class ArraysUtil {//工具类Arrays类 java,util.Arrays
             else
                 System.out.println(']');
             //这是测试
+            //第二次修改
 
         }
     }
